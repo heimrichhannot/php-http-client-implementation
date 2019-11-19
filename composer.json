@@ -1,0 +1,7 @@
+{
+  "name": "php-http/client-implementation",
+  "license": "LGPL-3.0-or-later",
+  "replace": {
+    "php-http/client-implementation": "*"
+  }
+}
